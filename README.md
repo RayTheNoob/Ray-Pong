@@ -1,8 +1,11 @@
 # RayPong
 
 [**Why**](https://raythenoob.github.io/website/rayPong/why)
+
 [**Downloads**](https://raythenoob.github.io/website/rayPong/download)
+
 [**Play Online**](https://raythenoob.github.io/website/rayPong/demo.html)
+
 
 ![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot2.png)
 RayPong is a pong like game that can be played with one or two players. It features multiple scoring modes:
